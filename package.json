@@ -1,0 +1,16 @@
+{
+  "name": "module5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://moin909.github.io/mod5solution",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
